@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><center>Health and Wealth</center></h1>
+    <img src="https://media.istockphoto.com/photos/the-greatest-wealth-is-health-picture-id661871884?k=6&m=661871884&s=612x612&w=0&h=diMg4rJF2JWHef-c5lSnCqYJUMVUu1GzSZuf-BNb2-w=" alt="Blog  image" height="300px" width="300px">
+    <h2>The pillar of Fulfiling Life</h2>
+    <p>Health and wealth are two fundamental aspects of life that contribute to overall well-being and happiness. While health ensures a long and fulfilling life, wealth provides financial security and access to opportunities. Striking a balance between the two is crucial for a prosperous and meaningful existence.</p>
+    <h2>The importance of Health</h2>
+    <p>Health is often considered the greatest wealth because without it, all other achievements lose their significance. A healthy lifestyle, including a balanced diet, exercise, proper sleep, and mental well-being, ensures a fulfilling life. Ignoring health can lead to diseases, stress, and reduced productivity.</p>
+    <h2>The Role of Wealth </h2>
+    <p>Wealth provides financial stability, access to better healthcare, and opportunities for personal growth. It enables individuals to afford quality education, comfortable living, and a secure future. However, financial success alone does not guarantee happiness if health is neglected.</p>
+    <h2>Conclusion</h2>
+    <p>Health and wealth are interconnected and equally important. Without good health, wealth loses its value, and without financial stability, maintaining good health becomes difficult. A well-balanced approach ensures a happy, fulfilling, and successful life.</p>
+    <table border="1">
+        <td>Aspects</td>
+        <td>Health</td>
+        <td>Wealth</td>
+        <tr>
+            <th>Definition</th>
+            <th>A state of physical,mental,and social well-being</th>
+            <th>financial stability and material resource</th>
+        </tr>
+        <tr>
+            <th><center>Key Features</center></th>
+            <th>Proper diet,exercise,mental well-being,medical care</th>
+            <th>Income,saving,investments,financial planning</th>
+        </tr>
+        <tr>
+            <th>Challenges</th>
+            <th>diseases,unhealthy lifestyle,stress,lack of healthcare</th>
+            <th>Debt,unemployment,poor,financial management</th>
+        </tr>
+    </table>
+</body>
+</html>
